@@ -11,6 +11,7 @@ alias -- -="cd -"
 alias mv='mv -v'
 alias rm='rm -i -v'
 alias cp='cp -v'
+alias myhosts="grep -w -i "Host" ~/.ssh/config | sed 's/Host//'"
 
 alias chmox='chmod -x'
 

@@ -1,3 +1,6 @@
+[user]
+    name = Edward Li
+    email = 165676732@qq.com
 [alias]
 	c = commit -am
 	fpush = push --force
