@@ -1,5 +1,5 @@
-set default_user "edwardli"
-set default_machine "edwardli-macbookair2"
+set default_user "Liuxing Tan"
+set default_machine "Liuxing-Tan-macbook"
 
 
 source ~/.config/fish/path.fish

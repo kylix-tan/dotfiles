@@ -1,6 +1,6 @@
 [user]
-    name = Edward Li
-    email = 165676732@qq.com
+    name = Liuxing Tan
+    email = liuxing.tan@farfetch.com
 [alias]
 	c = commit -am
 	fpush = push --force
